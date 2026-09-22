@@ -1,6 +1,6 @@
-# OhioIoT ESP32 Provisioning Examples<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+# OhioIoT ESP32 & Raspberry Pi MQTT Examples<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
-These code bases were created and explained in the ["ESP32 Provisioning"](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) playlist on the OhioIoT YouTube channel.  Below are the videos and code examples by topic:
+These code bases were created and explained in the ["MQTT with ESP32 & Mosquitto on Rasbperry Pi"](https://www.youtube.com/playlist?list=PLAilpW21Y-LCaGX3wlxcf2MCR4o3gyZp6) playlist on the OhioIoT YouTube channel.  Below are the videos and code examples by topic:
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
