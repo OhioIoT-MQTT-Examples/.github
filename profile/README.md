@@ -5,12 +5,12 @@ These code bases were created and explained in the [MQTT with ESP32 & Mosquitto 
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
-| 1 | Provision with Minimum Code | [Video](https://youtu.be/joSQdGQZj2Q) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config)|
-| 2 | Custom HTML Config Screen | [Video](https://youtu.be/UBM_KC4RHlo) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML) |
-| 3 | Captive Portal | [Video](https://youtu.be/84m80RYoLmE) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Captive-Portal) |
-| 4 | Store Your Credentials | [Video](https://youtu.be/rn4CZpfgST4) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Store-Creds) |
-| 5 | When to Run the Provisioner   | [Video](https://youtu.be/KfPEm5m-Xdc) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Provisioning-Strategies) |
-| 6 | One-Click Provisioning | [Video](https://youtu.be/ggkNcxTs2Pc) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/One-Click-Config) |
+| 1 | Provision with Minimum Code | [Video](https://youtu.be/joSQdGQZj2Q) | |
+| 2 | Custom HTML Config Screen | [Video](https://youtu.be/UBM_KC4RHlo) |  |
+| 3 | Captive Portal | [Video](https://youtu.be/84m80RYoLmE) |  |
+| 4 | Store Your Credentials | [Video](https://youtu.be/rn4CZpfgST4) |  |
+| 5 | When to Run the Provisioner   | [Video](https://youtu.be/KfPEm5m-Xdc) |  |
+| 6 | One-Click Provisioning | [Video](https://youtu.be/ggkNcxTs2Pc) |  |
 
 <br />
 Learn more about OhioIoT:
