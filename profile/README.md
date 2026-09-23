@@ -5,12 +5,16 @@ These code bases were created and explained in the [MQTT with ESP32 & Mosquitto 
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
-| 1 | Provision with Minimum Code | [Video](https://youtu.be/joSQdGQZj2Q) | |
-| 2 | Custom HTML Config Screen | [Video](https://youtu.be/UBM_KC4RHlo) |  |
-| 3 | Captive Portal | [Video](https://youtu.be/84m80RYoLmE) |  |
-| 4 | Store Your Credentials | [Video](https://youtu.be/rn4CZpfgST4) |  |
-| 5 | When to Run the Provisioner   | [Video](https://youtu.be/KfPEm5m-Xdc) |  |
-| 6 | One-Click Provisioning | [Video](https://youtu.be/ggkNcxTs2Pc) |  |
+| 1 | Provision with Minimum Code | [Video](https://youtu.be/k9CnF3siO6s) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/Your-First-Broker) |
+| 2 | Custom HTML Config Screen | [Video](https://youtu.be/dioklKf22XY) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/Docker-Speedtest) |
+| 3 | Captive Portal | [Video](https://youtu.be/Jgq480yQDJo) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Connect) |
+| 4 | Store Your Credentials | [Video](https://youtu.be/ahzX8AzNy48) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Publish) |
+| 5 | When to Run the Provisioner   | [Video](https://youtu.be/zIIw5Pvrufo) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Subscribe) |
+| 6 | One-Click Provisioning |[Video]( https://youtu.be/4EepjfH34uk) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Handle-Messages) |
+| 7 | Next-Level Library |  | [Code Example](https://github.com/OhioIoT-MQTT-Examples/Final-Video-Starting-Point.git) |
+| 7 |  |  | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Next-Level-Library) |
+| 8 | One-Click Provisioning | [Video](https://youtu.be/svpc9iLGmmA) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Unique-Device-ID.git) |
+
 
 <br />
 Learn more about OhioIoT:
