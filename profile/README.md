@@ -12,7 +12,7 @@ These code bases were created and explained in the [MQTT with ESP32 & Mosquitto 
 | 5 | When to Run the Provisioner   | [Video](https://youtu.be/zIIw5Pvrufo) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Subscribe) |
 | 6 | One-Click Provisioning |[Video]( https://youtu.be/4EepjfH34uk) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Handle-Messages) |
 | 7 | Next-Level Library | [Video](https://youtu.be/dwZXmg1UIE0) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Next-Level-Library) |
-| 8 | Auto-Generate Device IDOne | [Video](https://youtu.be/svpc9iLGmmA) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Unique-Device-ID.git) |
+| 8 | Auto-Generate Device IDs | [Video](https://youtu.be/svpc9iLGmmA) | [Code Example](https://github.com/OhioIoT-MQTT-Examples/ESP32-Unique-Device-ID.git) |
 
 
 <br />
