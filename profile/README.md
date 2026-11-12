@@ -1,5 +1,5 @@
 # OhioIoT MQTT Examples<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
-#### [(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
+[(back to OhioIoT GitHub Index)](https://github.com/OhioIoT-Examples)
 
 These code bases were created and explained in the [MQTT for ESP32](https://www.youtube.com/playlist?list=PLAilpW21Y-LCaGX3wlxcf2MCR4o3gyZp6) playlist on the OhioIoT YouTube channel.  Below are the videos and code examples by topic:
 
@@ -17,8 +17,9 @@ These code bases were created and explained in the [MQTT for ESP32](https://www.
 
 
 <br />
-Learn more about OhioIoT:
 
-- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
-- [OhioIoT GitHub Index](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
+## Learn more about OhioIoT
+
+- [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
+- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
+- [Code examples index](https://github.com/OhioIoT-Examples)
